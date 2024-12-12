@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import './navbar.css'
-import PixabayContext from './context/pixabayContext'
+import PixabayContext from './context/PixabayContext'
 
 const navbar = () => {
 
