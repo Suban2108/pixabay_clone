@@ -1,6 +1,6 @@
 import React from 'react'
 import Images from '../src/Images'
-import Navbar from './navbar'
+import Navbar from './Navbar'
 
 const App = () => {
   return (
